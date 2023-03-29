@@ -1,0 +1,24 @@
+Portmanteau found for words dictionary and addiction: /əˈdɪkʃənɛɹi/ (size=7)
+Portmanteau found for words 'senpai' and 'Pythagoras': /ˈsɛmpaɪˈθæɡ.əɹ.əs/ (size=3)
+Portmanteau found for words 'senpai' and 'paisano': /ˈsɛmpaɪˈzɑ.noʊ/ (size=3)
+Portmanteau found for words 'senpai' and 'iconoclast': /ˈsɛmpaɪˈkɒnəklæst/ (size=2)
+Portmanteau found for words 'senpai' and 'iatromathematics': /ˈsɛnpaɪˌæt.ɹoʊ.mæθ.əˈmæt.ɪks/ (size=2)
+Portmanteau found for words 'bro' and 'programmatically': /bɹoʊɡɹəˈmætɪkl/ (size=3)
+Portmanteau found for words 'bro' and 'Ophelia': /bɹoʊˈfiljə/ (size=2)
+Portmanteau found for words 'bro' and 'Obama': /bɹoʊˈbɑ.mə/ (size=2)
+Portmanteau found for words 'bro' and 'hommage': /bɹoʊˈmɒːʒ/ (size=2)
+Portmanteau found for words 'bro' and 'oh my goodness': /bɹoʊ maɪ ˈɡʊdnəs/ (size=2)
+Portmanteau found for words 'bro' and "O'Neill": /bɹoʊˈnil/ (size=2)
+Portmanteau found for words 'bro' and 'OS X': /bɹoʊˌɛsˈtɛn/ (size=2)
+Portmanteau found for words 'bro' and 'Odysseus': /bɹoʊˈdɪsi.əs/ (size=2)
+Portmanteau found for words 'bro' and 'oh yeah': /bɹoʊ˥˩ jɛə˨˩/ (size=2)
+Portmanteau found for words 'bro' and 'overemotional': /bɹoʊvəɹiˈmoʊʃənəl/ (size=2) # Doesn't really work but is cool anyway
+Portmanteau found for words 'portmanteau' and 'oh yeah': /ˌpɔːɹtmænˈtoʊ˥˩ jɛə˨˩/ (size=2)
+Portmanteau found for words 'portmanteau' and 'Singapore': /ˈsɪŋəpɔːɹtˈmæntoʊ/ (size=3)
+Portmanteau found for words 'portmanteau' and 'oasis': /pɔːɹtˈmæntoʊˈeɪsɪs/ (size=2)
+Portmanteau found for words 'wreck' and 'explosion': /ˈɹɛkˈsploʊ.ʒən/ (size=2)
+Portmanteau found for words 'bear' and 'airport': /bɛə.pɔːt/ (size=2)
+
+===
+
+Portmanteau found for words 'senpai' and 'pipette': /ˈsɛm.paɪˈpɛt/ (size = 1)

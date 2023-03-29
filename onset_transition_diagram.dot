@@ -1,0 +1,77 @@
+digraph {
+    label=<
+        <B>Transition diagram for parsing syllable onsets in the English language</B>
+    >
+    labelloc = top
+    
+    "Used Natural Classes" [shape=plaintext, label=<
+        <TABLE>
+            <TR>
+                <TD>Natural Class</TD>
+                <TD>Phonological Features</TD>
+            </TR>
+            <TR>
+                <TD>consonant</TD>
+                <TD>-syl</TD>
+            </TR>
+            <TR>
+                <TD>nasal</TD>
+                <TD>+nas</TD>
+            </TR>
+            <TR>
+                <TD>voiceless fricative or /v/</TD>
+                <TD>+cons, -lat, -sg, -round, -long</TD>
+            </TR>
+            <TR>
+                <TD>approximant</TD>
+                <TD>+son, +cont, -nas, -sg, -velaric</TD>
+            </TR>
+            <TR>
+                <TD>stop</TD>
+                <TD>-cont, -lat, -sg, -round, -long</TD>
+            </TR>
+            <TR>
+                <TD>voiceless stop</TD>
+                <TD>-cont, -lat, -voi, -lo, -velaric</TD>
+            </TR>
+            <TR>
+                <TD>voiceless non-silibant fricative</TD>
+                <TD>+cons, -delrel, 
+-nas, -sg, -round, -long</TD>
+            </TR>
+        </TABLE>
+    >]
+    
+    0 [style=invis]
+    1 [shape=doublecircle]
+    2 [shape=circle]
+    3 [shape=circle]
+    4 [shape=doublecircle]
+    5 [shape=circle]
+    6 [shape=doublecircle]
+    7 [shape=doublecircle]
+    8 [shape=doublecircle]
+    9 [shape=doublecircle]
+    10 [shape=doublecircle]
+    
+    0 -> 1
+
+    1 -> 2 [label="/s/"]
+    
+    2 -> 7 [label="nasal not /ŋ/"]
+    2 -> 6 [label="voiceless stop"]
+    2 -> 3 [label="nasal"]
+    2 -> 8 [label="voiceless non-silibant fricative"]
+    
+    6 -> 4 [label="approximant"]
+    3 -> 4 [label="approximant"]
+    8 -> 4 [label="approximant"]
+    
+    1 -> 5 [label="stop"]
+    1 -> 5 [label="voiceless fricative (-) or /v/"]
+    1 -> 5 [label="consonant not in {/r/, /w/}"]
+    
+    5 -> 10 [label="approximant not /j/"]
+    
+    1 -> 9 [label="consonant not /ŋ/"]
+}
